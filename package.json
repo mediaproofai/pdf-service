@@ -1,0 +1,10 @@
+{
+  "name": "pdf-service",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "pdfjs-dist": "^3.7.226",
+    "pdf-lib": "^1.17.1"
+  }
+}
